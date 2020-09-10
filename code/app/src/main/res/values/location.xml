@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="location">
+        <item>Select a city...</item>
+        <item>Chicago</item>
+        <item>Indianapolis</item>
+        <item>Minneapolis</item>
+        <item>Detroit</item>
+        <item>Ames</item>
+    </string-array>
+</resources>
